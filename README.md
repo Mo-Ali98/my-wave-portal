@@ -1,2 +1,2 @@
 # wave-portal-contract
- Smart contract
+ Smart contract created for the waveportal-project
