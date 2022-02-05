@@ -9,7 +9,7 @@
 2. Run `npm run start` to start the project
 
 3. 📈 Deploy to Rinkeby testnet.
-  Create an [Alchem](https://www.alchemy.com/) account and a project, Grab the API URL KEY.
+  Create an [Alchemy](https://www.alchemy.com/) account and a project, Grab the API URL KEY.
   change the `hardhat.config.js` file to the one below.
 
  ```javascript
