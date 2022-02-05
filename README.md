@@ -6,9 +6,8 @@
 
 ### Get started
 1. Run `npm install` at the root of your directory
-2. Run `npm run start` to start the project
 
-3. 📈 Deploy to Rinkeby testnet.
+2. 📈 Deploy to Rinkeby testnet.
   Create an [Alchemy](https://www.alchemy.com/) account and a project, Grab the API URL KEY.
   change the `hardhat.config.js` file to the one below.
 
@@ -25,9 +24,9 @@
    },
  };
 ```
-4. Run this command to deploy on the Rinkeby testnet.
+3. Run this command to deploy on the Rinkeby testnet.
 `npx hardhat run scripts/deploy.js --network rinkeby`
 
-5. Copy the address of the deployed contract for your frontend Web3 app!
+4. Copy the address of the deployed contract for your frontend Web3 app!
 
 Shoutout [BuildSpace](https://buildspace.so/) for the course! 🔥
